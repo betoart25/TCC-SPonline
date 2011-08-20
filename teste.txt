@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 Deu Certo..
 
 DFGDFGFDSDGDFSGSDG
 
 DFGSDFGDS
+=======
+pronto
+>>>>>>> b2827cdde1dc8e3ad359d27737f7efe58d7bfee2
