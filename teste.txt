@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Não deu erro..
+=======
+Deu Certo..
+
+>>>>>>> 4d0bf2a03811aef889b65e6a4f82971e62f61c59
